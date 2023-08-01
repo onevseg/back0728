@@ -2,13 +2,13 @@
   "name": "express-hello-world",
   "version": "1.0.0",
   "description": "Express Hello World",
-  "main": "net.js",
+  "main": "server.js",
   "repository": "https://github.com/fscarmen2/X-for-Glitch",
   "author": "fscarmen",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node net.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
